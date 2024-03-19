@@ -1,6 +1,12 @@
 # Topic-Modeling-Surfing-Videos-on-YouTube
 In this repo is part of a broader project to understand what makes a YouTube Channel (or video) perform well. In this series of notebooks, I use different approaches to Topic Modeling to support my EDA efforts. 
-These 
+
+#### Data ####
+* YouTube video titles from Surfing channels
+* The Surfing Chanels comprise of content posted by training companies, main Surf brands as well as that by Pro Surfers.
+* 8821 videos
+* The average YouTube Video title is 5.21 words long
+* Kudos to 'How to Rip', 'Nathan Florence', 'Nic Von Rupp', 'Barefoot Surf','Kai Lenny', 'Surf Strength Coach', 'Ombe Surf', 'Rip Curl', 'Surfline', 'Red Bull Surfing', 'Kale Brock' for the wonderful content.
 
 #### Methods Used ####
 * Data preprocessing - stemming, stopwords removal, white space removal and etc.
@@ -38,8 +44,15 @@ These
  <br>
  <p>   No cleaning necessary</p>
  <p>   Applied BERTTopic</p>
-<img width="1274" alt="Customer_Segments_Clusters" src="https://user-images.githubusercontent.com/116262236/213372327-3844e2c7-f67c-4995-9276-561e32ba8bba.png">
 </details>
 
 # Final Results
-<img width="1274" alt="Summary_n_Recommendations" src="https://github.com/daphteh/Customer_Segmentation_CreditCard_Company/blob/77896663197562f725b460b6a4e34dc077fd63e8/Report_Images/Summary_n_Recommendations.png">
+The number of topics in the corpus vary based on technique.
+LDA: 28 topics
+GSMM: 6 topics
+BERTtopic: 33 topics
+
+<img width="1274" alt="Topic Map from BERTopic" src="https://github.com/daphteh/Topic-Modeling-Surfing-Videos-on-YouTube/blob/e0e676c160b19d3a8bece38ec2c843f50317ef3e/Report_Images/BERTTopic_Map.jpeg">
+
+
+I personally found GSMM the best in terms of simplifying the categorization process. Nonetheless, mapping the categories onto the individual titles showed quite a bit of descrepancy. BERTopic created far too many topics, but they were meaningful when I checked the results against each title. It was also useful that the is functionality to show how these topics build on each other. 
