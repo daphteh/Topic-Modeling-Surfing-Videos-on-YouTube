@@ -21,14 +21,16 @@ These
   <p>   Clean data, create bigrams and BOW</p>
   <p>   Identify the ideal number of clusters</p>
   <p>   Look at words associated with each cluster to discern what they mean</p>
+<img width="1274" alt="Words clusters from LDA" src="https://github.com/daphteh/Topic-Modeling-Surfing-Videos-on-YouTube/blob/6b454af344c37da62d04f4d0c87826b34b7b2a0c/Report_Images/LDA_Topics_Words.jpg">
 </details>
+
 
 <details>
 <summary> Step 2b: Topic Modeling - GSMM</summary>
   <br>
   <p>   Cleaning data </p>
   <p>   Refining my approach to Topic Modeling using techniques geared towards short text</p>
-<img width="1274" alt="Elbow_Number_Clusters" src="https://github.com/daphteh/Customer_Segmentation_CreditCard_Company/blob/e0989a2d6516a2678311a63c9c3a04dcb983fdb5/Report_Images/Elbow_Number_Clusters.png">
+      <img width="1274" alt="Word clusters from GSMM" src="https://github.com/daphteh/Topic-Modeling-Surfing-Videos-on-YouTube/blob/6b454af344c37da62d04f4d0c87826b34b7b2a0c/Report_Images/GSMM_Topics_Words.jpg">
 </details>
 
 <details>
