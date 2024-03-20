@@ -6,7 +6,10 @@ In this repo is part of a broader project to understand what makes a YouTube Cha
 * The Surfing Chanels comprise of content posted by training companies, main Surf brands as well as that by Pro Surfers.
 * 8821 videos
 * The average YouTube Video title is 5.21 words long
-* Kudos to 'How to Rip', 'Nathan Florence', 'Nic Von Rupp', 'Barefoot Surf','Kai Lenny', 'Surf Strength Coach', 'Ombe Surf', 'Rip Curl', 'Surfline', 'Red Bull Surfing', 'Kale Brock' for the wonderful content.
+* Kudos to 'How to Rip', 'Nathan Florence', 'Nic Von Rupp', 'Barefoot Surf','Kai Lenny', 'Surf Strength Coach', 'Ombe Surf', 'Rip Curl', 'Surfline', 'Red Bull Surfing', 'Kale Brock' for the inspiration and wonderful content.
+
+<img width="800" alt="Surfer" src="https://github.com/daphteh/Topic-Modeling-Surfing-Videos-on-YouTube/blob/dae5708a66e3962b59eeaf888e4d29043d8aa330/Report_Images/Nathan_Florence.jpeg">
+</details>
 
 #### Methods Used ####
 * Data preprocessing - stemming, stopwords removal, white space removal and etc.
