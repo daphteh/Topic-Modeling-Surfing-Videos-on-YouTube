@@ -3,7 +3,7 @@ In this repo is part of a broader project to understand what makes a YouTube Cha
 
 #### Data ####
 * YouTube video titles from Surfing channels
-* The Surfing Chanels comprise of content posted by training companies, main Surf brands as well as that by Pro Surfers.
+* The Surfing Chanels comprise of content posted by training companies, main Surf brands and Pro Surfers.
 * 8821 videos
 * The average YouTube Video title is 5.21 words long
 * Kudos to 'How to Rip', 'Nathan Florence', 'Nic Von Rupp', 'Barefoot Surf','Kai Lenny', 'Surf Strength Coach', 'Ombe Surf', 'Rip Curl', 'Surfline', 'Red Bull Surfing', 'Kale Brock' for the inspiration and wonderful content.
