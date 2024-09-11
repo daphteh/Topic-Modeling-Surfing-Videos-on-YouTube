@@ -58,4 +58,4 @@ BERTtopic: 236 topics
 <img width="1274" alt="Topic Map from BERTopic" src="https://github.com/daphteh/Topic-Modeling-Surfing-Videos-on-YouTube/blob/e0e676c160b19d3a8bece38ec2c843f50317ef3e/Report_Images/BERTTopic_Map.jpeg">
 
 
-I personally found GSMM the best in terms of simplifying the categorization process. Nonetheless, mapping the categories onto the individual titles showed a significant amount of descrepancy. BERTopic created far too many topics, but they were relatively meaningful when I checked the results against each title. It was also useful that the is functionality to show how these topics build on each other. BERTopic can be improved by removing words like ['surf', 'surfer', surfing'].
+I personally found GSMM the best in terms of simplifying the categorization process. Nonetheless, mapping the categories onto the individual titles showed a significant amount of descrepancy. BERTopic created far too many topics, but they were relatively meaningful when I checked the results against each title. It was also useful that the is functionality to show how these topics build on each other. 
